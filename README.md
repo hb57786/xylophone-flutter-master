@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BMI CALCULATOR
 
 * [Introdução](#introdução)
@@ -45,6 +44,3 @@ flutter run
 3. **Commit** suas alterações 
 4. **Push** para o seu *fork*
 5. Faça um **Pull Request**
-=======
-# Flutter Exercises
->>>>>>> origin/master
