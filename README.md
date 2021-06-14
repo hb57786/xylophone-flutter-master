@@ -1,4 +1,4 @@
-# BMI CALCULATOR
+# Xilofone
 
 * [Introdução](#introdução)
 * [Screenshots](#screenshots)
